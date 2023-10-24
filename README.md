@@ -1,1 +1,1 @@
-# docker-Java-kubernetes-project
+# kubernetes-project
